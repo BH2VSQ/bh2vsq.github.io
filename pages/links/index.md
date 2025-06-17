@@ -2,6 +2,10 @@
 title: 我的小伙伴们
 keywords: 链接
 description: VSQ的小伙伴们
+nav: false # 关闭页面导航
+comment: false # 关闭评论
+toc: false # 关闭文章目录
+aside: false # 关闭目录边栏
 links:
   - url: https://shiro.love/
     avatar: https://shiro.love/_next/image?url=https%3A%2F%2Fassets.moedev.cn%2Fblog%2Fphoto%2Fuser%2Fhead.jpg!webp&w=640&q=75
