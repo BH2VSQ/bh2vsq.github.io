@@ -3,12 +3,13 @@ import { defineSiteConfig } from 'valaxy'
 export default defineSiteConfig({
   url: 'https://blog.bh2vsq.cn/',
   lang: 'zh-CN',
-  title: '風凪の猫窝',
+  title: '風凪的小窝',
+  subtitle: ' ',
   author: {
     name: '風凪',
-    avatar: '/photos/favicon.jpg',
+    avatar: '/photo/avatar/avatar.jpg',
   },
-  description: 'DE BH2VSQ!',
+  description: 'DE BH2VSQ',
   social: [
     {
       name: 'GitHub',
@@ -32,27 +33,28 @@ export default defineSiteConfig({
 
   search: {
     enable: false,
+    type: 'engine',
   },
 
   sponsor: {
-    enable: false,
+    enable: true,
     title: '我很可爱，请给我钱！',
     methods: [
       {
         name: '支付宝',
-        url: 'https://cdn.yunyoujun.cn/img/donate/alipay-qrcode.jpg',
+        url: 'alipay.png',
         color: '#00A3EE',
         icon: 'i-ri-alipay-line',
       },
       {
         name: 'QQ 支付',
-        url: 'https://cdn.yunyoujun.cn/img/donate/qqpay-qrcode.png',
+        url: 'qq.png',
         color: '#12B7F5',
         icon: 'i-ri-qq-line',
       },
       {
         name: '微信支付',
-        url: 'https://cdn.yunyoujun.cn/img/donate/wechatpay-qrcode.jpg',
+        url: 'wx.png',
         color: '#2DC100',
         icon: 'i-ri-wechat-pay-line',
       },

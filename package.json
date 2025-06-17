@@ -1,5 +1,5 @@
 {
-  "name": "KaZe-Blog",
+  "name": "VSQ-Blog",
   "type": "module",
   "version": "0.0.0",
   "private": true,
@@ -12,10 +12,11 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "valaxy": "0.22.17",
-    "valaxy-theme-yun": "0.22.17"
+    "valaxy": "0.23.5",
+    "valaxy-addon-lightgallery": "^0.0.4",
+    "valaxy-theme-yun": "0.23.5"
   },
   "devDependencies": {
-    "typescript": "^5.8.2"
+    "typescript": "^5.8.3"
   }
 }

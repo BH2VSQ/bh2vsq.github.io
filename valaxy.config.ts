@@ -1,6 +1,6 @@
 import type { UserThemeConfig } from 'valaxy-theme-yun'
 import { defineValaxyConfig } from 'valaxy'
-
+import { addonLightGallery } from 'valaxy-addon-lightgallery'
 // add icons what you will need
 const safelist = [
   'i-ri-home-line',
@@ -17,20 +17,28 @@ export default defineValaxyConfig<UserThemeConfig>({
   themeConfig: {
     banner: {
       enable: true,
-      title: '風凪の猫窝',
+      title: '風凪的小窝',
     },
-    say:{
-      enable: false
+    colors: {
+      primary: '#9c5cd4'
     },
-
+    fireworks: {
+      enable: true,
+      colors: ['#FFE57D', '#FFCD88', '#E6F4AD']
+    },
     pages: [
-      /*
       {
         name: '我的小伙伴们',
         url: '/links/',
         icon: 'i-ri-genderless-line',
         color: 'dodgerblue',
-      },*/
+      },
+      {
+        name: '相册',
+        url: '/albums/',
+        icon: 'i-ri-gallery-line',
+        color: '#43abee',
+      }
     ],
 
     footer: {
@@ -43,4 +51,7 @@ export default defineValaxyConfig<UserThemeConfig>({
   },
 
   unocss: { safelist },
+  addons: [
+    addonLightGallery(),
+  ],
 })
