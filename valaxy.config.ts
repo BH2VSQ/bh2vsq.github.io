@@ -38,11 +38,25 @@ export default defineValaxyConfig<UserThemeConfig>({
         url: '/albums/',
         icon: 'i-ri-gallery-line',
         color: '#43abee',
+      },
+      {
+        name: '赞助',
+        url: '/sponsors/',
+        icon: 'i-ri-aed-fill',
+        color: '#43abee',
       }
     ],
 
     footer: {
       since: 2025,
+      icon: {
+        enable: true,
+        name: 'i-ri-aed-fill',
+        animated: true,
+        color: '#d69b54',
+        url: '/sponsors/',	//图标链接
+        title: '请给我钱'		//鼠标悬停注释
+      },
       beian: {
         enable: false,
         icp: '萌ICP备20250599号',

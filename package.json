@@ -17,6 +17,7 @@
     "valaxy-theme-yun": "0.23.5"
   },
   "devDependencies": {
+    "@iconify-json/ri": "^1.2.5",
     "typescript": "^5.8.3"
   }
 }
