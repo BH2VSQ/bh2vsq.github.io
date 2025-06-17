@@ -5,8 +5,6 @@ import YunFooter from 'valaxy-theme-yun/components/YunFooter.vue'
 <template>
   <YunFooter>
     <!-- <CdnLogo /> -->
-    <a href="mailto:me@bh2vsq@gmail.com" target="_blank">
-      联系我
-    </a>
+    <a href="https://icp.gov.moe/?keyword=20250599" target="_blank">萌ICP备20250599号</a>
   </YunFooter>
 </template>
