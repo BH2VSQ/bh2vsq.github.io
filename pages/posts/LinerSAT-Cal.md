@@ -14,4 +14,4 @@ tags:
 
 github项目地址：[GitHub - BH2VSQ/LinerSat-calculater-website](https://github.com/BH2VSQ/LinerSat-calculater-website)
 
-Demo地址：[业余无线电线性卫星频率计算器](https://blog.bh2vsq.cn/LinerSat-calculater-website/)
+Demo地址：[业余无线电线性卫星频率计算器](https://liner.bh2vsq.cn/)
