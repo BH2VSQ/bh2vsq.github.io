@@ -14,4 +14,6 @@ tags:
 
 github项目地址：[GitHub - BH2VSQ/LinerSat-calculater-website](https://github.com/BH2VSQ/LinerSat-calculater-website)
 
-Demo地址：[业余无线电线性卫星频率计算器](https://liner.bh2vsq.cn/)
+Demo地址：[业余无线电卫星频率计算器](https://liner.bh2vsq.cn/)
+
+2025-06-22 Update：添加了FM星的计算，现在可以支持FM星了！
