@@ -13,3 +13,4 @@ aside: false    # 关闭目录边栏
 
 <SponsorRecommend />
 <SponsorsDisplay />
+<spon />
