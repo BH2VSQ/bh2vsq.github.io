@@ -127,8 +127,8 @@
 
 <script setup lang="ts">
 import { ref, computed } from 'vue';
-import sponsorsData from '../config/sponsor.json';
-import expenseData from '../config/walletpay.json';
+import sponsorsData from '../public/sponsor.json';
+import expenseData from '../public/walletpay.json';
 
 // --- Type Definitions ---
 interface Donation { date: string; amount: number; method: string; }
