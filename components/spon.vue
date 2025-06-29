@@ -163,8 +163,8 @@ const expenses = ref<Expense[]>([]);
 // --- Fetch data on component mount ---
 onMounted(async () => {
   // IMPORTANT: Replace these URLs with the RAW content URLs from YOUR GitHub repository.
-  const sponsorUrl = 'https://raw.githubusercontent.com/BH2VSQ/sponsors/refs/heads/main/sponsor.json';
-  const expenseUrl = 'https://raw.githubusercontent.com/BH2VSQ/sponsors/refs/heads/main/walletpay.json';
+  const sponsorUrl = 'https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/config/sponsor.json';
+  const expenseUrl = 'https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/config/walletpay.json';
 
   try {
     const [sponsorResponse, expenseResponse] = await Promise.all([
