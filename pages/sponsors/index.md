@@ -11,5 +11,4 @@ aside: false    # 关闭目录边栏
 
 # <center>我很可爱，请给我钱！OVO</center>
 
-<SponsorRecommend />
-<SponsorsDisplay />
+<spon />
