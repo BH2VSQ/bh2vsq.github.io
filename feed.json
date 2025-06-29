@@ -1,0 +1,59 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "風凪的小窝",
+  "home_page_url": "https://blog.bh2vsq.cn/",
+  "feed_url": "https://blog.bh2vsq.cn/feed.json",
+  "description": "DE BH2VSQ",
+  "icon": "https://blog.bh2vsq.cn/photo/avatar/avatar.jpg",
+  "favicon": "https://blog.bh2vsq.cn/favicon.svg",
+  "authors": [
+    {
+      "name": "風凪",
+      "url": "https://valaxy.site"
+    }
+  ],
+  "items": [
+    {
+      "id": "https://blog.bh2vsq.cn/posts/Card-Reader",
+      "url": "https://blog.bh2vsq.cn/posts/Card-Reader",
+      "title": "基于RP2040和PN532的NFC扫卡器",
+      "content_html": "<p>为了使前阵子编写的QSL卡管理软件支持NFC，这次使用了手头现有的树莓派Pico和PN532模块制作了一个NFC的读卡/写卡模块<br>\nGithub开源链接：[GitHub - BH2VSQ/RP</p>\n<br/><p>访问 <a href=\"https://blog.bh2vsq.cn/posts/Card-Reader\" target=\"_blank\">https://blog.bh2vsq.cn/posts/Card-Reader</a> 阅读全文。</p>",
+      "date_published": "2025-06-25T00:00:00.000Z",
+      "date_modified": "2025-06-25T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "風凪",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.bh2vsq.cn/posts/QSL-Manager-PY",
+      "url": "https://blog.bh2vsq.cn/posts/QSL-Manager-PY",
+      "title": "受够了手填QSL卡？我用Python给自己造了个“卡片管家”",
+      "content_html": "<p>嗨，各位 OM！我是 BH2VSQ。不知道大家有没有和我一样的烦恼：通联的快乐是实打实的，但后续的 QSL 卡片管理… 那可真是让人头大！</p>\n<p>终于，在一次对着堆积的卡片和电子表格长叹一口气后，我决定</p>\n<br/><p>访问 <a href=\"https://blog.bh2vsq.cn/posts/QSL-Manager-PY\" target=\"_blank\">https://blog.bh2vsq.cn/posts/QSL-Manager-PY</a> 阅读全文。</p>",
+      "date_published": "2025-06-18T00:00:00.000Z",
+      "date_modified": "2025-06-18T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "風凪",
+          "url": "https://valaxy.site"
+        }
+      ]
+    },
+    {
+      "id": "https://blog.bh2vsq.cn/posts/LinerSAT-Cal",
+      "url": "https://blog.bh2vsq.cn/posts/LinerSAT-Cal",
+      "title": "业余无线电线性卫星实时计算网站",
+      "content_html": "<h2>业余无线电线性卫星实时计算网站</h2>\n<p>开发了一个用于业余无线电线性卫星频率计算跟踪的小网页</p>\n<p>github项目地址：[GitHub - BH2VSQ/LinerSat-calculater-web</p>\n<br/><p>访问 <a href=\"https://blog.bh2vsq.cn/posts/LinerSAT-Cal\" target=\"_blank\">https://blog.bh2vsq.cn/posts/LinerSAT-Cal</a> 阅读全文。</p>",
+      "date_published": "2025-06-17T00:00:00.000Z",
+      "date_modified": "2025-06-17T00:00:00.000Z",
+      "authors": [
+        {
+          "name": "風凪",
+          "url": "https://valaxy.site"
+        }
+      ]
+    }
+  ]
+}
