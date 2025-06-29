@@ -13,3 +13,4 @@ aside: false    # 关闭目录边栏
 # 我很可爱，请给我钱！OVO
 
 <YunSponsor/>
+<spon />
