@@ -33,7 +33,9 @@ declare module 'vue-router/auto-routes' {
     '/posts/': RouteRecordInfo<'/posts/', '/posts', Record<never, never>, Record<never, never>>,
     '/posts/Card-Reader': RouteRecordInfo<'/posts/Card-Reader', '/posts/Card-Reader', Record<never, never>, Record<never, never>>,
     '/posts/LinerSAT-Cal': RouteRecordInfo<'/posts/LinerSAT-Cal', '/posts/LinerSAT-Cal', Record<never, never>, Record<never, never>>,
+    '/posts/MMDVM-POCSAG': RouteRecordInfo<'/posts/MMDVM-POCSAG', '/posts/MMDVM-POCSAG', Record<never, never>, Record<never, never>>,
     '/posts/QSL-Manager-PY': RouteRecordInfo<'/posts/QSL-Manager-PY', '/posts/QSL-Manager-PY', Record<never, never>, Record<never, never>>,
+    '/posts/QSL-Query': RouteRecordInfo<'/posts/QSL-Query', '/posts/QSL-Query', Record<never, never>, Record<never, never>>,
     '/sponsors/': RouteRecordInfo<'/sponsors/', '/sponsors', Record<never, never>, Record<never, never>>,
     '/tags/': RouteRecordInfo<'/tags/', '/tags', Record<never, never>, Record<never, never>>,
   }
