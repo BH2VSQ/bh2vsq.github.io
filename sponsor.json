@@ -1,0 +1,14 @@
+[
+  {
+    "name": "test1",
+    "avatar": "",
+    "donations": [
+      {
+        "date": "2025-06-28",
+        "amount": 0.01,
+        "method": "ALI_PAY"
+      }
+    ],
+    "id": 1
+  }
+]
