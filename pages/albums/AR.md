@@ -1,5 +1,4 @@
 ---
-
 title: 业余无线电
 layout: gallery
 nav: false
@@ -15,7 +14,16 @@ photos:            # 照片
   desc: 
 - caption: CQ WW VHF 2023
   src: ../photo/album/AR/CQWWVHF2023.png
-  desc: 
+  desc:
+- caption: CQ WPX CW 2025
+  src: ../photo/album/AR/CQWPXCW2025.png
+  desc:  
+- caption: POTA Hunter
+  src: ../photo/album/AR/POTABronzeHunter.png
+  desc:  
+- caption: POTA Activator
+  src: ../photo/album/AR/POTABronzeHunter.png
+  desc:  
 - caption: JAMSAT50
   src: ../photo/album/AR/JAMSAT50.jpg
   desc: 
