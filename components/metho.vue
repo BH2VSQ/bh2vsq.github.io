@@ -3,6 +3,7 @@
     
     <!-- Section 1: QR Codes -->
     <div>
+      <div class="flex flex-wrap justify-center font-semibold">请备注昵称以便于登记账本喵~</div>
       <div v-if="qrCodes.length > 0" class="flex flex-wrap justify-center gap-4 sm:gap-8">
         <div v-for="qr in qrCodes" :key="qr.name" class="text-center">
           <img :src="qr.imgSrc" :alt="`${qr.name} QR Code`" class="w-40 h-40 object-cover rounded-lg shadow-md mx-auto" @error="handleImageError">
