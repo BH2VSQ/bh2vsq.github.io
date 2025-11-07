@@ -20,5 +20,8 @@ title: 关于我
     <img src="https://img.shields.io/badge/VUCC%20144-42-227f7c?style=flat&labelColor=47bab2" alt="VUCC 144: 42" style="display: inline-block !important; max-width: none !important; height: auto !important; border: none !important; margin: 0 !important; padding: 0 !important;" />
     <img src="https://img.shields.io/badge/VUCC%20432-19-227f7c?style=flat&labelColor=47bab2" alt="VUCC 432: 19" style="display: inline-block !important; max-width: none !important; height: auto !important; border: none !important; margin: 0 !important; padding: 0 !important;" />
     <img src="https://img.shields.io/badge/VUCC%20SAT-50-227f7c?style=flat&labelColor=47bab2" alt="VUCC SAT: 50" style="display: inline-block !important; max-width: none !important; height: auto !important; border: none !important; margin: 0 !important; padding: 0 !important;" />
+    <img src="https://img.shields.io/badge/DXCC%20CW-3-8d86ff?style=flat&labelColor=4620e1" alt="DXCC CW: 3" style="display: inline-block !important; max-width: none !important; height: auto !important; border: none !important; margin: 0 !important; padding: 0 !important;" />
+    <img src="https://img.shields.io/badge/DXCC%20Phone-3-8d86ff?style=flat&labelColor=4620e1" alt="DXCC Phone: 3" style="display: inline-block !important; max-width: none !important; height: auto !important; border: none !important; margin: 0 !important; padding: 0 !important;" />
+    <img src="https://img.shields.io/badge/DXCC%20Data-42-8d86ff?style=flat&labelColor=4620e1" alt="DXCC Data: 42" style="display: inline-block !important; max-width: none !important; height: auto !important; border: none !important; margin: 0 !important; padding: 0 !important;" />
   </div>
 </div>
