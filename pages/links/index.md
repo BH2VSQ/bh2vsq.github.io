@@ -21,6 +21,13 @@ links:
     desc: 求真務實，重義輕利。
     email: 
     color: "#0078e7"
+  - url: https://www.sifangbazhu.tech
+    avatar: https://www.sifangbazhu.tech/upload/%E8%8A%B8%E5%A6%82.jpg
+    name: BH3HSI
+    blog: MRZHU的小站
+    desc: 向着计算物理出发吧！
+    email: 
+    color: "#0078e7"
 random: true
 ---
 
