@@ -22,7 +22,7 @@ photos:            # 照片
   src: ../photo/album/AR/POTABronzeHunter.png
   desc:  
 - caption: POTA Activator
-  src: ../photo/album/AR/POTABronzeHunter.png
+  src: ../photo/album/AR/POTABronzeActivator.jpg
   desc:  
 - caption: JAMSAT50
   src: ../photo/album/AR/JAMSAT50.jpg
