@@ -19,13 +19,13 @@ photos:            # 照片
   src: ../photo/album/AR/CQWPXCW2025.png
   desc:  
 - caption: POTA Hunter
-  src: ../photo/album/AR/POTABronzeHunter.png
+  src: ../photo/album/AR/POTASilverHunter.jpg
   desc:  
 - caption: POTA Activator
   src: ../photo/album/AR/POTABronzeActivator.jpg
   desc:  
 - caption: JAMSAT50
-  src: ../photo/album/AR/JAMSAT50.jpg
+  src: ../photo/album/AR/JAMSAT50.jpgPOTASilverHunter.jpg
   desc: 
 
 ---
