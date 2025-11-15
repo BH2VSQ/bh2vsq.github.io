@@ -32,6 +32,8 @@ declare module 'vue-router/auto-routes' {
     '/page/[page]': RouteRecordInfo<'/page/[page]', '/page/:page', { page: ParamValue<true> }, { page: ParamValue<false> }>,
     '/posts/': RouteRecordInfo<'/posts/', '/posts', Record<never, never>, Record<never, never>>,
     '/posts/Card-Reader': RouteRecordInfo<'/posts/Card-Reader', '/posts/Card-Reader', Record<never, never>, Record<never, never>>,
+    '/posts/GNURadio-Study-01/': RouteRecordInfo<'/posts/GNURadio-Study-01/', '/posts/GNURadio-Study-01', Record<never, never>, Record<never, never>>,
+    '/posts/GNURadio-Study-02/': RouteRecordInfo<'/posts/GNURadio-Study-02/', '/posts/GNURadio-Study-02', Record<never, never>, Record<never, never>>,
     '/posts/LinerSAT-Cal': RouteRecordInfo<'/posts/LinerSAT-Cal', '/posts/LinerSAT-Cal', Record<never, never>, Record<never, never>>,
     '/posts/PlutoSDR-Study-01/': RouteRecordInfo<'/posts/PlutoSDR-Study-01/', '/posts/PlutoSDR-Study-01', Record<never, never>, Record<never, never>>,
     '/posts/PlutoSDR-Study-02/': RouteRecordInfo<'/posts/PlutoSDR-Study-02/', '/posts/PlutoSDR-Study-02', Record<never, never>, Record<never, never>>,
