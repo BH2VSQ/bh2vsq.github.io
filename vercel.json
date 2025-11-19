@@ -1,6 +1,3 @@
 {
-  "buildCommand": "pnpm run build:spa",
-  "outputDirectory": "dist",
-  "framework": "vite",
   "cleanUrls": true
 }
