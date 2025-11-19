@@ -11,6 +11,9 @@ importers:
       valaxy:
         specifier: 0.23.5
         version: 0.23.5(@babel/parser@7.27.5)(@nuxt/kit@3.17.5)(@types/markdown-it@14.1.2)(@types/node@24.0.3)(@vue/compiler-dom@3.5.16)(axios@1.10.0)(eslint@9.29.0(jiti@2.4.2))(postcss@8.5.6)(rollup@4.43.0)(terser@5.42.0)(typescript@5.8.3)(yaml@2.8.0)
+      valaxy-addon-components:
+        specifier: ^0.1.0
+        version: 0.1.0
       valaxy-addon-lightgallery:
         specifier: ^0.0.4
         version: 0.0.4(valaxy@0.23.5(@babel/parser@7.27.5)(@nuxt/kit@3.17.5)(@types/markdown-it@14.1.2)(@types/node@24.0.3)(@vue/compiler-dom@3.5.16)(axios@1.10.0)(eslint@9.29.0(jiti@2.4.2))(postcss@8.5.6)(rollup@4.43.0)(terser@5.42.0)(typescript@5.8.3)(yaml@2.8.0))
@@ -3358,6 +3361,9 @@ packages:
   uuid@11.1.0:
     resolution: {integrity: sha512-0/A9rDy9P7cJ+8w1c9WD9V//9Wj15Ce2MPz8Ri6032usz+NfePxx5AcN3bN+r6ZL6jEo066/yNYB3tn4pQEx+A==}
     hasBin: true
+
+  valaxy-addon-components@0.1.0:
+    resolution: {integrity: sha512-7uCJgUgc2JHISmz/UDQlhBqGSNW4QKmkiRlcwj5WhjhScC/KktK8JtADeKh6FCaAJHbjShovHB/9UPVtnTwORg==}
 
   valaxy-addon-lightgallery@0.0.4:
     resolution: {integrity: sha512-+pQJUBCPXff5Isd5ZfNrgkEqh+oKPvzNvgw74vAxmPEeWKvW8786lftVgkoWByFrNsn92iN7q7h5jt3evmQFDg==}
@@ -7306,6 +7312,8 @@ snapshots:
   uuid@10.0.0: {}
 
   uuid@11.1.0: {}
+
+  valaxy-addon-components@0.1.0: {}
 
   valaxy-addon-lightgallery@0.0.4(valaxy@0.23.5(@babel/parser@7.27.5)(@nuxt/kit@3.17.5)(@types/markdown-it@14.1.2)(@types/node@24.0.3)(@vue/compiler-dom@3.5.16)(axios@1.10.0)(eslint@9.29.0(jiti@2.4.2))(postcss@8.5.6)(rollup@4.43.0)(terser@5.42.0)(typescript@5.8.3)(yaml@2.8.0)):
     dependencies:
