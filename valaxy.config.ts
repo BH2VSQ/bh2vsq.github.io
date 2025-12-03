@@ -42,6 +42,12 @@ export default defineValaxyConfig<UserThemeConfig>({
         color: '#43abee',
       },
       {
+        name: '一些小项目',
+        url: '/projects/',
+        icon: 'i-ri-code-s-slash-line',
+        color: '#43abee',
+      },
+      {
         name: '赞助',
         url: '/sponsors/',
         icon: 'i-ri-aed-fill',

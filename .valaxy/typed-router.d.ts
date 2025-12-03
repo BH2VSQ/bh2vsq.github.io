@@ -40,6 +40,7 @@ declare module 'vue-router/auto-routes' {
     '/posts/QSL-Manager-PY': RouteRecordInfo<'/posts/QSL-Manager-PY', '/posts/QSL-Manager-PY', Record<never, never>, Record<never, never>>,
     '/posts/QSL-Query': RouteRecordInfo<'/posts/QSL-Query', '/posts/QSL-Query', Record<never, never>, Record<never, never>>,
     '/posts/VSQ-YRC/': RouteRecordInfo<'/posts/VSQ-YRC/', '/posts/VSQ-YRC', Record<never, never>, Record<never, never>>,
+    '/projects/': RouteRecordInfo<'/projects/', '/projects', Record<never, never>, Record<never, never>>,
     '/sponsors/': RouteRecordInfo<'/sponsors/', '/sponsors', Record<never, never>, Record<never, never>>,
     '/tags/': RouteRecordInfo<'/tags/', '/tags', Record<never, never>, Record<never, never>>,
   }
