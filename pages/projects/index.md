@@ -1,11 +1,11 @@
 ---
-title: 云游的小项目们
+title: 小项目们
 tags:
   - 项目
 categories:
-  - 云游的小项目
-date: 2016-01-01 00:00:00
-updated: 2024-10-06 00:00:00
+  - 一些小项目
+date: 2025-12-03 00:00:00
+updated: 2025-12-03 00:00:00
 layout: projects
 projects:
   Query:
@@ -36,36 +36,3 @@ projects:
         github: BH2VSQ/ADIF-Editor
         url: https://adif.bh2vsq.cn
 ---
-<!--
-open_source:
-    title: 参与
-    emoji: 👥
-    collection:
-      - name: element-plus
-        emoji: ➕
-        desc: Vue 3 最流行的组件库之一，Core Team Member，主要负责样式系统、文档、BUG 修复，以及周边项目模板示例的开发。
-        github: element-plus/element-plus
-        docs: https://element-plus.org/
-        color: '#409eff'
-        textColor: white
-      - name: 其他开源项目
-        emoji: 🏠
-        desc: 当然目前我也为其他社区开源项目贡献过代码，也许你还可以在 vitesse 等其他项目中看到我的身影。
-        github: YunYouJun
-        color: black
-  other:
-    title: 其他
-    emoji: 📁
-    collection:
-      - name: yun
-        emoji: ☁️
-        desc: 小云设定资源大公开
-      - name: yunyoujun.github.io
-        emoji: 📖
-        desc: 我的博客
-        url: https://www.yunyoujun.cn
-      - name: YunYouJun
-        emoji: ☁️
-        desc: 哼哼，还有很多下次再整理！<br/> <del>我已经一滴也没有了。</del>
-
--->
