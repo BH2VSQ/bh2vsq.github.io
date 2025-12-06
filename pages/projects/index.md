@@ -29,6 +29,12 @@ projects:
         color: '#face87'
         github: BH2VSQ/LinerSat-calculater-website
         url: https://liner.bh2vsq.cn
+      - name: 卫星频率表
+        emoji: 📖
+        desc: 用于业余无线电卫星的频率查询，可以通过github推送pr更新数据
+        color: '#2b7489'
+        github: BH2VSQ/SAT-Frequency
+        url: https://freq.bh2vsq.cn
       - name: ADIF在线编辑器
         emoji: ✍️
         desc: 用于比赛结束后日志的检测，导入adi文件后，可以登录QRZ自动查阅日志呼号有效性以及手动修改日志并导出
