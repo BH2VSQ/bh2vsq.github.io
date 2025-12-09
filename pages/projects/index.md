@@ -41,4 +41,9 @@ projects:
         color: '#2b7489'
         github: BH2VSQ/ADIF-Editor
         url: https://adif.bh2vsq.cn
+      - name: POTA激活记录小工具
+        emoji: 🏞
+        desc: 用于POTA激活后的数据记录，可以直观看到已经激活了哪些公园，还有哪些公园没有激活
+        color: '#2b7489'
+        github: BH2VSQ/POTA-activatar-Tools-CN
 ---
