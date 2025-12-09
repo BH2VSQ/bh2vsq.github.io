@@ -19,7 +19,7 @@ photos:            # 照片
   src: ../photo/album/AR/CQWPXCW2025.png
   desc:  
 - caption: POTA Hunter
-  src: ../photo/album/AR/POTASilverHunter.jpg
+  src: ../photo/album/AR/POTAGoldHunter.jpg
   desc:  
 - caption: POTA Activator
   src: ../photo/album/AR/POTABronzeActivator.jpg
