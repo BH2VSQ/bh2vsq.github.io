@@ -19,8 +19,8 @@ projects:
         textColor: white
         github: BH2VSQ/QSL_query
         url: https://query.bh2vsq.cn
-  Tools:
-    title: 业余无线电工具
+  WebTools:
+    title: 业余无线电网页工具
     emoji: 🔧
     collection:
       - name: 卫星频率多普勒计算
@@ -41,9 +41,18 @@ projects:
         color: '#2b7489'
         github: BH2VSQ/ADIF-Editor
         url: https://adif.bh2vsq.cn
+  AppTools:
+    title: 业余无线电软件工具
+    emoji: 🔧
+    collection:
       - name: POTA激活记录小工具
         emoji: 🏞
         desc: 用于POTA激活后的数据记录，可以直观看到已经激活了哪些公园，还有哪些公园没有激活
         color: '#2b7489'
         github: BH2VSQ/POTA-activatar-Tools-CN
+      - name: 日志记录软件
+        emoji: 📕
+        desc: 用于日志的管理以及QSL卡片的收发入库
+        color: '#2b7489'
+        github: BH2VSQ/QSLCard-Manager-PYV
 ---
