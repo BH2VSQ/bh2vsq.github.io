@@ -24,6 +24,9 @@ photos:            # 照片
 - caption: POTA Activator
   src: ../photo/album/AR/POTABronzeActivator.jpg
   desc:  
+- caption: POTA DX Hunter
+  src: ../photo/album/AR/POTADXHunter.jpg
+  desc:  
 - caption: JAMSAT50
   src: ../photo/album/AR/JAMSAT50.jpg
   desc: 
