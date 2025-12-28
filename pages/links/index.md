@@ -28,6 +28,13 @@ links:
     desc: 向着计算物理出发吧！
     email: 
     color: "#0078e7"
+  - url: https://blog.bloade.com
+    avatar: https://img.bloade.com/Logo/Laughing_man_bw1.png
+    name: BG2FUC
+    blog: 混沌之海
+    desc: 瞎折腾的咸鱼
+    email: 
+    color: "#0078e7"
 random: true
 ---
 
