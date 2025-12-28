@@ -23,14 +23,14 @@ links:
     color: "#0078e7"
   - url: https://www.sifangbazhu.tech
     avatar: https://www.sifangbazhu.tech/upload/%E8%8A%B8%E5%A6%82.jpg
-    name: BH3HSI
+    name: MRZHU的小站
     blog: MRZHU的小站
     desc: 向着计算物理出发吧！
     email: 
     color: "#0078e7"
   - url: https://blog.bloade.com
     avatar: https://img.bloade.com/Logo/Laughing_man_bw1.png
-    name: BG2FUC
+    name: 混沌之海
     blog: 混沌之海
     desc: 瞎折腾的咸鱼
     email: 
