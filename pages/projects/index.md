@@ -55,4 +55,9 @@ projects:
         desc: 用于日志的管理以及QSL卡片的收发入库
         color: '#2b7489'
         github: BH2VSQ/QSLCard-Manager-PYV
+      - name: adi日志处理软件
+        emoji: 📕
+        desc: 用于多个adi日志文件的合并去重，自动整理为对应呼号的adi日志文件
+        color: '#2b7489'
+        github: BH2VSQ/Adif-merge-tools
 ---
