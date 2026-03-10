@@ -41,6 +41,12 @@ projects:
         color: '#2b7489'
         github: BH2VSQ/ADIF-Editor
         url: https://adif.bh2vsq.cn
+      - name: UV全模式电台展示板
+        emoji: ✍️
+        desc: 用于展示支持UV全模式的电台型号及其核准
+        color: '#2b7489'
+        github: BH2VSQ/UVAllmodeRIG-show
+        url: https://rig.bh2vsq.cn
   AppTools:
     title: 业余无线电软件工具
     emoji: 🔧
@@ -50,11 +56,16 @@ projects:
         desc: 用于POTA激活后的数据记录，可以直观看到已经激活了哪些公园，还有哪些公园没有激活
         color: '#2b7489'
         github: BH2VSQ/POTA-activatar-Tools-CN
-      - name: 日志记录软件
+      - name: 日志记录软件-Python
         emoji: 📕
         desc: 用于日志的管理以及QSL卡片的收发入库
         color: '#2b7489'
         github: BH2VSQ/QSLCard-Manager-PYV
+      - name: 日志记录软件-NodejsWeb (new)
+        emoji: 📕
+        desc: 用于日志的管理以及QSL卡片的收发入库
+        color: '#2b7489'
+        github: BH2VSQ/QSLCard-Manager
       - name: adi日志处理软件
         emoji: 📕
         desc: 用于多个adi日志文件的合并去重，自动整理为对应呼号的adi日志文件
