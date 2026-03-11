@@ -46,5 +46,17 @@
       }
     ],
     "id": 4
+  },
+  {
+    "name": "BI7AWD",
+    "avatar": "",
+    "donations": [
+      {
+        "date": "2026-03-11",
+        "amount": 1.0,
+        "method": "WECHAT_PAY"
+      }
+    ],
+    "id": 5
   }
 ]
