@@ -47,6 +47,12 @@ projects:
         color: '#2b7489'
         github: BH2VSQ/UVAllmodeRIG-show
         url: https://rig.bh2vsq.cn
+      - name: BnCRA卫星日志生成工具
+        emoji: ✍️
+        desc: 基于BG7XWF的python脚本改造的网页版BnCRA卫星操作日志生成工具
+        color: '#2b7489'
+        github: BH2VSQ/BnCRA-SAT-Log
+        url: https://cra.bh2vsq.cn
   AppTools:
     title: 业余无线电软件工具
     emoji: 🔧
