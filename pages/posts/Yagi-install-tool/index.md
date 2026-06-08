@@ -34,3 +34,7 @@ tags:
 以下为实际架设使用此连接件架设八木天线进行GreenCube卫星通联的记录画面
 
 ![](./pic05.jpg)
+
+模型已上传至[MakerWorld平台](https://makerworld.com.cn/zh/models/2600122-ye-yu-wu-xian-dian-ba-mu-tian-xian-deng-jia-zhi-ji)
+
+![](./pic06.png)
