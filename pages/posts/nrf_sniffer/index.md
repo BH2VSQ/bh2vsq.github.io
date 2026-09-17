@@ -1,5 +1,5 @@
 ---
-title: Nice!Nano nRF52840 固件备份、烧录、恢复与 Wireshark 配置指南
+title: Nice!Nano nRF52840 固件备份、恢复、烧录Nrf_sniffer固件以及Wireshark 配置指南
 date: 2026-09-17
 updated: 2026-09-17
 categories: NRF52840
