@@ -28,13 +28,11 @@ projects:
         desc: 用于实时计算卫星的上下行多普勒频率
         color: '#face87'
         github: BH2VSQ/LinerSat-calculater-website
-        url: https://liner.bh2vsq.cn
       - name: 卫星频率表
         emoji: 📖
         desc: 用于业余无线电卫星的频率查询，可以通过github推送pr更新数据
         color: '#2b7489'
         github: BH2VSQ/SAT-Frequency
-        url: https://freq.bh2vsq.cn
       - name: ADIF在线编辑器
         emoji: ✍️
         desc: 用于比赛结束后日志的检测，导入adi文件后，可以登录QRZ自动查阅日志呼号有效性以及手动修改日志并导出
@@ -72,9 +70,24 @@ projects:
         desc: 用于日志的管理以及QSL卡片的收发入库
         color: '#2b7489'
         github: BH2VSQ/QSLCard-Manager
+      - name: 日志记录软件-NodejsWeb (手机客户端)
+        emoji: 📱
+        desc: 用于适配NodejsWeb版本服务端的手机操作软件
+        color: '#2b7489'
+        github: BH2VSQ/QSL_manager_mobile
       - name: adi日志处理软件
         emoji: 📕
         desc: 用于多个adi日志文件的合并去重，自动整理为对应呼号的adi日志文件
         color: '#2b7489'
         github: BH2VSQ/Adif-merge-tools
+      - name: JTTY-GO
+        emoji: 💻
+        desc: 使用Go语言编写的JTTY编解码发射软件，参考WSJT-X 3.2.0 RC1版本
+        color: '#2b7489'
+        github: BH2VSQ/JTTY-GO
+      - name: XQSL_PyQt
+        emoji: 🛰
+        desc: 基于原 X-QSL / CallSignAnalysis 项目的 Python + PyQt6 迁移版。 原项目链接：https://gitee.com/yuzhenwu/x-qsl-amateur-radio-adif-tool
+        color: '#2b7489'
+        github: BH2VSQ/XQSL_PyQt
 ---

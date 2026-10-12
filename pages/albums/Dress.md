@@ -30,5 +30,8 @@ photos:            # 照片
 - caption: 
   src: ../photo/album/Dress/8.jpg
   desc: 
+- caption: 
+  src: ../photo/album/Dress/9.jpg
+  desc: 
 
 ---
