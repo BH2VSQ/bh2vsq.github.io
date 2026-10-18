@@ -85,9 +85,19 @@ projects:
         desc: 使用Go语言编写的JTTY编解码发射软件，参考WSJT-X 3.2.0 RC1版本
         color: '#2b7489'
         github: BH2VSQ/JTTY-GO
+      - name: SATAprs-GO
+        emoji: 💻
+        desc: 使用Go语言编写的卫星APRS编解码发射软件
+        color: '#2b7489'
+        github: BH2VSQ/SATAprs-Go
       - name: XQSL_PyQt
         emoji: 🛰
         desc: 基于原 X-QSL / CallSignAnalysis 项目的 Python + PyQt6 迁移版。 原项目链接：https://gitee.com/yuzhenwu/x-qsl-amateur-radio-adif-tool
         color: '#2b7489'
         github: BH2VSQ/XQSL_PyQt
+      - name: IC-9700-Remote-Control-Switch
+        emoji: 🛰
+        desc: 主要用于通过CIV指令切换IC-9700的AF/IF输出用于接收遥测时使用，附带可控制9700音频输入源、功率、CW拍发速度、话音压缩
+        color: '#2b7489'
+        github: BH2VSQ/IC-9700-Remote-Control-Switch
 ---
